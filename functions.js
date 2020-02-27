@@ -63,25 +63,25 @@
 // bank(1111,260)
 
 
-const subtrack = (num1,num2) =>{
-    console.log(num1-num2);
-}
-subtrack(10,5);
+// const subtrack = (num1,num2) =>{
+//     console.log(num1-num2);
+// }
+// subtrack(10,5);
 
-const divied = (num1,num2) =>{
-    return num1/num2;
-}
+// const divied = (num1,num2) =>{
+//     return num1/num2;
+// }
 
-console.log(divied(8,2));
+// console.log(divied(8,2));
 
-function divied2(num1,num2){
-    return num1/num2;
-}
-console.log( divied2(8,2));
+// function divied2(num1,num2){
+//     return num1/num2;
+// }
+// console.log( divied2(8,2));
 
-function subtrack2 (num1,num2){
-    return num1-num2;
-}
-console.log(subtrack2(5,2));
+// function subtrack2 (num1,num2){
+//     return num1-num2;
+// }
+// console.log(subtrack2(5,2));
 
 

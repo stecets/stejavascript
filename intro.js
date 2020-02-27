@@ -32,7 +32,3 @@ console.log("All Around The World"[7].toLocaleUpperCase())
 
 
 
-
-
-
-
